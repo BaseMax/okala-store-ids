@@ -22,6 +22,14 @@ The script `okala-get-store-details.php` iterates through a range of store IDs a
 
 ---
 
+## What is Okala?
+
+[Okala](https://www.okala.com/) is a popular online grocery shopping platform in Iran. It provides users with a convenient way to browse, order, and have groceries delivered directly to their doorstep. Okala connects customers with a wide network of local stores and supermarkets, offering a variety of products ranging from fresh produce to household essentials.
+
+The platform emphasizes speed, reliability, and a user-friendly experience, making it one of the leading players in the Iranian e-commerce grocery market.
+
+---
+
 ## Requirements
 
 - PHP 7.0 or higher (with cURL extension enabled).
